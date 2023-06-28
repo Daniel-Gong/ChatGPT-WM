@@ -1,2 +1,3 @@
 # ChatGPT_WM
-code and datasets repository for NeurIPS 2023 submission entitled "Working Memory Capacity of ChatGPT: An Empirical Study".
+
+This is a code and dataset repository for NeurIPS 2023 submission entitled "Working Memory Capacity of ChatGPT: An Empirical Study".
