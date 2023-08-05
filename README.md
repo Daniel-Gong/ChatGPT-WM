@@ -1,6 +1,6 @@
 # ChatGPT_WM
 
-This is a code and dataset repository for NeurIPS 2023 submission entitled "**Working Memory Capacity of ChatGPT: An Empirical Study**".
+This is a code and dataset repository for "**Working Memory Capacity of ChatGPT: An Empirical Study**".
 
 Here We create a dataset to test the working memory capacity of language models. We choose the N-back task because it is widely used in cognitive science as a measure of working memory capacity. To create the N-back task dataset, we generated 30 blocks of trials for $N = \{1, 2, 3\}$, respectively. Each block contains 30 trials, including 10 match trials and 20 nonmatch trials. The dataset for each block is stored in a text file. The first line in the text file is the letter presented on every trial. The second line is the condition corresponding to every letter in the first line ('m':this is a match trial; '-': this is a nonmatch trial). We have created many versions of the N-back task, including verbal ones and spatial ones.
 
