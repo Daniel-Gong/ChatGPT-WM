@@ -1,4 +1,4 @@
-# ChatGPT_WM
+# Working memory capacity of large language models (ChatGPT as a representative)
 
 This is a code and dataset repository for "**Working Memory Capacity of ChatGPT: An Empirical Study**", which has been accepted by AAAI 2024 Conference on Artificial Intelligence.
 
