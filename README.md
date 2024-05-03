@@ -1,4 +1,4 @@
-# Working memory capacity of large language models (ChatGPT as a representative)
+# Assessing Working Memory Capacity of Large Language Models (LLMs)
 
 This is a code and dataset repository for the paper "**[Working Memory Capacity of ChatGPT: An Empirical Study](https://arxiv.org/abs/2305.03731)**", which has been accepted by AAAI 2024 Conference on Artificial Intelligence.
 
