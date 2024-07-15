@@ -1,4 +1,4 @@
-# Assessing Working Memory Capacity of Large Language Models (LLMs)
+# Assessing Working Memory Capacity of Large Language Models (LLMs) Using N-back Tasks
 
 This is a code and dataset repository for the paper "**[Working Memory Capacity of ChatGPT: An Empirical Study](https://arxiv.org/abs/2305.03731)**", which has been accepted by AAAI 2024 Conference on Artificial Intelligence.
 
